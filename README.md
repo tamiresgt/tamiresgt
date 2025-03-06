@@ -8,6 +8,14 @@ I’m a data enthusiast with a background in Chemical Engineering and experience
 :white_medium_square:	 I’m currently based in Munich, Germany, working on my GitHub portfolio and open to new opportunities in data analytics, BI, or marketing analytics.  
 :white_medium_square:	 Outside of work, you’ll find me exploring new places, reading, or experimenting with creative projects.  
 
+## You can contact me:
+:envelope:	tamiresgomest@gmail.com  
+:computer:	[Linkedin](https://www.linkedin.com/in/tamiresgt/)
+
+
+
+
+
 <!--
 **tamiresgt/tamiresgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
