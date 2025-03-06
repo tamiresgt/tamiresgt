@@ -1,14 +1,12 @@
-## Hello 👋
-
-About Me
-🔹 Aspiring Data Analyst with a background in Chemical Engineering and Business Analysis in the consumer goods industry.
-🔹 4+ years of experience in marketing analytics, business intelligence, and data-driven decision-making.
-🔹 Strong analytical skills with expertise in SQL, Python, and Power BI, currently building a data analytics portfolio.
-🔹 Experience in automating reports, processing business data, and working with industry databases like Nielsen Retail, Euromonitor, Mintel, and IQVIA.
-🔹 Led projects that resulted in 202% sales growth in the baby care category and a 4pp market share increase.
-🔹 Developed a Power BI dashboard integrating key performance indicators across departments for real-time decision-making.
-🔹 Passionate about data storytelling, insights generation, and business strategy.
-🔹 Currently based in Munich, Germany, open to opportunities in data analytics, business intelligence, and marketing analytics.
+## Hi 👋
+### My name is Tamires Gomes Targino,  
+I’m a data enthusiast with a background in Chemical Engineering and experience in business analytics.  
+:white_medium_square:	I spent 4 years working in the consumer goods industry, where I used data to drive marketing strategies and business decisions.  
+:white_medium_square:	 My journey into data analytics started with automating reports and analyzing retail data, and now I’m diving deeper into SQL, Python, and Power BI to enhance my skills.  
+:white_medium_square:	 I love translating numbers into insights, solving problems, and making data-driven decisions that create real impact.  
+:white_medium_square:	 Some of my proudest achievements include leading a project that boosted sales by 202% and building a Power BI dashboard that improved decision-making across departments.  
+:white_medium_square:	 I’m currently based in Munich, Germany, working on my GitHub portfolio and open to new opportunities in data analytics, BI, or marketing analytics.  
+:white_medium_square:	 Outside of work, you’ll find me exploring new places, reading, or experimenting with creative projects.  
 
 <!--
 **tamiresgt/tamiresgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
