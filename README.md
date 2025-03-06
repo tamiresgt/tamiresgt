@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello 👋
+
+About Me
+🔹 Aspiring Data Analyst with a background in Chemical Engineering and Business Analysis in the consumer goods industry.
+🔹 4+ years of experience in marketing analytics, business intelligence, and data-driven decision-making.
+🔹 Strong analytical skills with expertise in SQL, Python, and Power BI, currently building a data analytics portfolio.
+🔹 Experience in automating reports, processing business data, and working with industry databases like Nielsen Retail, Euromonitor, Mintel, and IQVIA.
+🔹 Led projects that resulted in 202% sales growth in the baby care category and a 4pp market share increase.
+🔹 Developed a Power BI dashboard integrating key performance indicators across departments for real-time decision-making.
+🔹 Passionate about data storytelling, insights generation, and business strategy.
+🔹 Currently based in Munich, Germany, open to opportunities in data analytics, business intelligence, and marketing analytics.
 
 <!--
 **tamiresgt/tamiresgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
